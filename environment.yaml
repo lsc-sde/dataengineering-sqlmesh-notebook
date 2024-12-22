@@ -1,0 +1,9 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - openssl
+  - jupyter-server-proxy
+  - jupyter-vscode-proxy
+  - code-server
